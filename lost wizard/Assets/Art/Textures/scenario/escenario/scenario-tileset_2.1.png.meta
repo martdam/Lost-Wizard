@@ -1,0 +1,1984 @@
+fileFormatVersion: 2
+guid: 4ae9f3ad7e048b44a8ebfda52b33f3c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 63
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c192a5a2826c074eaa80fc51f04754e
+      internalID: -1641354757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345742be66f9a0548ae0cdd78016db89
+      internalID: -770119191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 26}
+        - {x: 26, y: 26}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f2a986cd5b4ba44addb673d3e6ae05
+      internalID: -1443755530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: 26}
+        - {x: 26, y: 26}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da1f249a0280347a343345a8dc284c
+      internalID: -12833196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ff11d0eef75ac40a6ece81ea018034
+      internalID: 1592464693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 26, y: -23}
+        - {x: 26, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a63733107f13c643bebc46dd78d76a4
+      internalID: -280492102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 25, y: 26}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2005841ea9574d87b448aae4533dc
+      internalID: -409886667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d066f057b8f4014449c5f3e97b5a3159
+      internalID: 1717010529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba0d29262ee73c479f6dc5dcff51e43
+      internalID: 392021825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d337742fe73d53f4080c0bb70c2967ad
+      internalID: 111736639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aabb8f511689f94cba326dcc5fa71de
+      internalID: 261375788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be464d2acdda41143b7aaf91d61ce324
+      internalID: 745872825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c17fcf6b205ee4086fcf3628851330
+      internalID: -1647191027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 26, y: -23}
+        - {x: 26, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2e479f9783674381fb608c57bc2f5
+      internalID: 1247308964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6666964d6e4baf4c9985f29a2fedec0
+      internalID: 29444290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96e26e7029a5c4f83f541a9b1ce503
+      internalID: 686958403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6997ee163299261408fd250db79d0755
+      internalID: 514372158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e199138ec602af4aa9941fdd796345c
+      internalID: 360544878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -23}
+        - {x: -24, y: -1}
+        - {x: -24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d52be77b4ad887409727b9a3cfcdd17
+      internalID: -46249190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6151a7d1cb4b64fa2d61b55efc1b02
+      internalID: 1065249015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936896eee27bac2449bc7fba855245a4
+      internalID: -560791353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: -9}
+        - {x: -24, y: 6}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 3}
+        - {x: 15, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fd1eca73f9c1a40907b5cb6f4ed05a
+      internalID: -526366748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -23}
+        - {x: -24, y: 5}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389714359562b0d4da9e9d69775fa43f
+      internalID: -1290365000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce327ae233c46d449b0e63b645f1775e
+      internalID: 1691851302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbce89c3b5b6034bb6798318f7cc9b6
+      internalID: -968779558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -23}
+        - {x: 6, y: -11}
+        - {x: 6, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01620b68c0aedc4e9f01cd1a9a241ab
+      internalID: 995443911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c2fe4d64a08a48b580e72644aa86d
+      internalID: -2114377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: -3, y: 26}
+        - {x: -3, y: -14}
+        - {x: -14, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9102c5bc6e475848bd66a11dfad87e4
+      internalID: 1937015279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -17}
+        - {x: -24, y: 24}
+        - {x: 25, y: 24}
+        - {x: 25, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeb473f35dbf9a4cb168d821b55d853
+      internalID: 711087587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80faf50abeadfd741a945cf7a3bd2b48
+      internalID: -1645421580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4046f108f9dd547469be951ac41a28e4
+      internalID: 1129709737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c6f8f5d96fbbe4eafea19ad7590206
+      internalID: -400503395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db463d9b9ad0474699b68dbb72b9a44
+      internalID: 1064734612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ac29e655b7a14a9fe5df2fbf30d5a
+      internalID: -1207566102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940a6bae0e9fd7240b1c693f3786d73b
+      internalID: 1463843742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e70cb6dbe8a5e44847ef5e2a7b802d
+      internalID: 1453301882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1529d9b1acc3b547801e333fd6ea015
+      internalID: 1297509036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802af73bb8c722429506cb7e9a14793
+      internalID: 1117916057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01eaeb66e4a545479c6fbb8a2393f6a
+      internalID: 2048855153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80278f0cac67dc42925927677755feb
+      internalID: -1228448576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38956e5fcfeebfb41b1511d7a7d76c32
+      internalID: -1056624084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 26, y: -23}
+        - {x: 26, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf33f60d000a78439500dbdf337dede
+      internalID: 4821671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc9382f02fde24d9a8d6ba4602a2c8
+      internalID: -536485382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 19}
+        - {x: 15, y: 19}
+        - {x: 15, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcc734620d833f41a730f6f083ebc8c
+      internalID: 1270907445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -23}
+        - {x: -23, y: -5}
+        - {x: -23, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0161e255f09c42bf14949400ff9de
+      internalID: 1978338687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4.6346283, y: -22.999985}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 25, y: 26}
+        - {x: 25, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514eb4496a24ef04690d3eed00a570c9
+      internalID: 1884465081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: 28}
+        - {x: 26, y: 27}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadf5cee479dc9949b76a50bb548a294
+      internalID: -1089249541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be220d67072e85e4f8a74259be69052b
+      internalID: 858530055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834e428522f47454d8b9ce9337e6e144
+      internalID: 1041808064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 22}
+        - {x: 17, y: 21}
+        - {x: 17, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b7e0f39dd30364baa8454d5e54becd
+      internalID: -265109236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -23}
+        - {x: -21, y: -3}
+        - {x: -21, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a712afb4be205fd4f981eda332dabbd1
+      internalID: -1937734287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 26, y: 26}
+        - {x: 26, y: -13}
+        - {x: 8, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a2836e2d08fa44088c75f5aaf8e714
+      internalID: 389508467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -11}
+        - {x: -10, y: -11}
+        - {x: -24, y: 7}
+        - {x: -24, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16711a5da8f7e0f4bb6acc6622cc4fe3
+      internalID: 1731011746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15.5, y: -14}
+        - {x: -14.5, y: 14}
+        - {x: 12.5, y: 14}
+        - {x: 12.5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31548af432c59ff409a8aaaa94bedbc6
+      internalID: -1285730931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: -23}
+        - {x: -22, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4581cc685d6f882468adb9444e35fbbe
+      internalID: 1433528571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b5e460c158fa4ca7d1eb2ba4a0565
+      internalID: 1744653990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9824964f82bff014984517b1fa4d9a27
+      internalID: -398453409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6721d7fd08e5a5a48a6e0bba80426738
+      internalID: 1791157886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85728440f629d5943a1fb0a55fde952c
+      internalID: 581313693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8.249411, y: -23}
+        - {x: -23, y: -10}
+        - {x: -23, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274971eea9a1a7142b2aac4a7d9a7b0c
+      internalID: 1129120493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e60b7b994824a45a2ef1f52fecd70a
+      internalID: 904070490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669a9bc9b4205e34e81b75f08485e3d8
+      internalID: -30111573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.2624817, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: 17, y: 26}
+        - {x: 17, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48416f64a11bf145a9e735722983e61
+      internalID: 661766829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -32}
+        - {x: -24, y: -23}
+        - {x: -32, y: -23}
+        - {x: -32, y: 26}
+        - {x: -24, y: 26}
+        - {x: -24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7506b33026ae14fa0da83b0650b136
+      internalID: 959945538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 26, y: 32}
+        - {x: 26, y: 26}
+        - {x: 32, y: 26}
+        - {x: 32, y: -23}
+        - {x: 26, y: -23}
+        - {x: 26, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8f82965d32904eb3cf3989c23ce4a
+      internalID: -1178425811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenario-tileset_2.1_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61d8cd950009ee46a547c6c8ad3b715
+      internalID: 989803011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      scenario-tileset_2.1_3: -12833196
+      scenario-tileset_2.1_0: -1641354757
+      scenario-tileset_2.1_4: 1592464693
+      scenario-tileset_2.1_17: 1005978458
+      scenario-tileset_2.1_56: -419649850
+      scenario-tileset_2.1_51: -1228448576
+      scenario-tileset_2.1_83: -1178425811
+      scenario-tileset_2.1_35: 711087587
+      scenario-tileset_2.1_2: -1443755530
+      scenario-tileset_2.1_31: 2051073017
+      scenario-tileset_2.1_52: -1056624084
+      scenario-tileset_2.1_16: 686958403
+      scenario-tileset_2.1_37: -1645421580
+      scenario-tileset_2.1_47: 1297509036
+      scenario-tileset_2.1_22: -560791353
+      scenario-tileset_2.1_5: -280492102
+      scenario-tileset_2.1_62: -72971251
+      scenario-tileset_2.1_70: -386454362
+      scenario-tileset_2.1_55: 34032219
+      scenario-tileset_2.1_81: 661766829
+      scenario-tileset_2.1_63: 858530055
+      scenario-tileset_2.1_58: 1270907445
+      scenario-tileset_2.1_69: 989803011
+      scenario-tileset_2.1_26: -968779558
+      scenario-tileset_2.1_43: 1463843742
+      scenario-tileset_2.1_39: -400503395
+      scenario-tileset_2.1_32: 995443911
+      scenario-tileset_2.1_41: -314503528
+      scenario-tileset_2.1_45: -646025870
+      scenario-tileset_2.1_74: 1744653990
+      scenario-tileset_2.1_42: -1207566102
+      scenario-tileset_2.1_67: 389508467
+      scenario-tileset_2.1_25: 1691851302
+      scenario-tileset_2.1_80: -30111573
+      scenario-tileset_2.1_61: -1089249541
+      scenario-tileset_2.1_49: 2048855153
+      scenario-tileset_2.1_77: 581313693
+      scenario-tileset_2.1_75: -398453409
+      scenario-tileset_2.1_10: 111736639
+      scenario-tileset_2.1_18: 514372158
+      scenario-tileset_2.1_30: 1434935864
+      scenario-tileset_2.1_59: 1978338687
+      scenario-tileset_2.1_19: 360544878
+      scenario-tileset_2.1_78: 1129120493
+      scenario-tileset_2.1_72: -1285730931
+      scenario-tileset_2.1_14: 1247308964
+      scenario-tileset_2.1_68: 1731011746
+      scenario-tileset_2.1_79: 904070490
+      scenario-tileset_2.1_29: 60684493
+      scenario-tileset_2.1_13: -1647191027
+      scenario-tileset_2.1_20: -46249190
+      scenario-tileset_2.1_64: 1041808064
+      scenario-tileset_2.1_7: 938039234
+      scenario-tileset_2.1_44: -1093722387
+      scenario-tileset_2.1_73: 1433528571
+      scenario-tileset_2.1_27: 800508635
+      scenario-tileset_2.1_82: 959945538
+      scenario-tileset_2.1_33: -2114377
+      scenario-tileset_2.1_9: 392021825
+      scenario-tileset_2.1_8: 1717010529
+      scenario-tileset_2.1_23: -526366748
+      scenario-tileset_2.1_15: 29444290
+      scenario-tileset_2.1_46: 1453301882
+      scenario-tileset_2.1_36: -297456608
+      scenario-tileset_2.1_24: -1290365000
+      scenario-tileset_2.1_40: 1064734612
+      scenario-tileset_2.1_60: 1884465081
+      scenario-tileset_2.1_38: 1129709737
+      scenario-tileset_2.1_1: -770119191
+      scenario-tileset_2.1_21: 1065249015
+      scenario-tileset_2.1_48: 1117916057
+      scenario-tileset_2.1_66: -1937734287
+      scenario-tileset_2.1_6: -409886667
+      scenario-tileset_2.1_71: 740032495
+      scenario-tileset_2.1_54: 4821671
+      scenario-tileset_2.1_53: 521264959
+      scenario-tileset_2.1_57: -536485382
+      scenario-tileset_2.1_34: 1937015279
+      scenario-tileset_2.1_76: 1791157886
+      scenario-tileset_2.1_50: 743587565
+      scenario-tileset_2.1_11: 261375788
+      scenario-tileset_2.1_28: -2112426636
+      scenario-tileset_2.1_12: 745872825
+      scenario-tileset_2.1_65: -265109236
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
