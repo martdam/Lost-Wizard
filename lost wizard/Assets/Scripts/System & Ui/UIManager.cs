@@ -15,6 +15,8 @@ public class UIManager : MonoBehaviour
     public Button ContinueButton = null;
     public bool buttons = true;
 
+    List<CanvasRenderer> a = new List<CanvasRenderer>();
+
     public Color loadToColor = Color.white;
 
     private void Start()
@@ -23,7 +25,23 @@ public class UIManager : MonoBehaviour
         {
             ContinueButton.interactable = SaveSystem.checkData();   
 
-        } 
+        }
+
+        if (MenuPanel.activeSelf)
+        {
+            a.Add(MenuPanel.GetComponent<CanvasRenderer>());
+            // Debug.Log(SkipCanvas.transform.childCount);
+            if (MenuPanel.transform.childCount > 0)
+            {
+                for (int i = 0; i < MenuPanel.transform.childCount; i++)
+                {
+                    //Debug.Log(i);
+
+                    a.Add(MenuPanel.transform.GetChild(i).gameObject.GetComponent<CanvasRenderer>());
+                }
+            }
+            StartCoroutine("FadeIn");
+        }
     }
 
 
@@ -74,12 +92,12 @@ public class UIManager : MonoBehaviour
 
     public void NewGame()
     {
-        MenuPanel.SetActive(false);
+        StartCoroutine("FadeOut");
         GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>().newGame();
     }
 
     public void LoadGame() {
-        MenuPanel.SetActive(false);
+        StartCoroutine("FadeOut");
         GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>().LoadGame();
     }
 
@@ -109,4 +127,30 @@ public class UIManager : MonoBehaviour
             }
         }
     }
+
+    IEnumerator FadeOut()
+    {
+        for (float f = a[0].GetAlpha(); f > -0.05f; f -= 0.05f)
+        {
+            foreach (CanvasRenderer cvr in a)
+            {
+                cvr.SetAlpha(f);
+            }
+
+            yield return new WaitForSeconds(0.02f);
+        }
+    }
+    IEnumerator FadeIn()
+    {
+        for (float f = 0.05f; f < 1; f += 0.05f)
+        {
+            foreach (CanvasRenderer cvr in a)
+            {
+                cvr.SetAlpha(f);
+            }
+
+            yield return new WaitForSeconds(0.01f);
+        }
+    }
+
 }
